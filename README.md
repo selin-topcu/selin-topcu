@@ -34,19 +34,13 @@
 
 ## Badges
   [<img src="src/img/hackerrank-badge.png" width="450">](https://www.hackerrank.com/profile/selintopcu)
-</div>
 
-<div align="center">
-      
-## LeetCode
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/selintopcu?theme=wtf&font=Encode%20Sans%20Semi%20Condensed&ext=activity)
-  
 ## Links
   <a href="https://www.hackerrank.com/profile/selintopcu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   <a href="https://www.leetcode.com/profile/selintopcu" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" alt="medium logo"  />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" alt="leetcode logo"  />
   </a>
   <a href="https://stackoverflow.com/users/14768905/selin-topcu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
@@ -56,9 +50,14 @@
   </a>
   <a href="https://tr.linkedin.com/in/selin-topcu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  </a>  
   
 ###
-  
   ![](https://raw.githubusercontent.com/selin-topcu/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)  
+</div>
+
+<div align="center">
+      
+## LeetCode
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/selintopcu?theme=wtf&font=Encode%20Sans%20Semi%20Condensed&ext=activity) 
 </div>
