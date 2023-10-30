@@ -26,12 +26,12 @@
   </a>  
 
 ## Certificates
-  [<img src="src/img/hackerrank-java-certificate.png" width="160">](https://www.hackerrank.com/certificates/249ebc6ec8df)
-  [<img src="src/img/hackerrank-sql-certificate.png" width="160">](https://www.hackerrank.com/certificates/7b7e4e33b825)
+  [<img src="src/img/hackerrank-java-certificate.png" width="155">](https://www.hackerrank.com/certificates/249ebc6ec8df)
+  [<img src="src/img/hackerrank-sql-certificate.png" width="155">](https://www.hackerrank.com/certificates/7b7e4e33b825)
   [<img src="src/img/patika-java-certificate.png" width="160">](https://verified.sertifier.com/en/verify/49183036965733/)
-  [<img src="src/img/kodluyoruz-frontend-certificate.png" width="160">](https://verified.sertifier.com/en/verify/30811053036848/)
-  [<img src="src/img/freecodecamp-javascript-certificate.png" width="160">](https://www.freecodecamp.org/certification/selintopcu/javascript-algorithms-and-data-structures)
-  [<img src="src/img/freecodecamp-responsiveweb-certificate.png" width="160">](https://www.freecodecamp.org/certification/selintopcu/responsive-web-design)
+  [<img src="src/img/kodluyoruz-frontend-certificate.png" width="155">](https://verified.sertifier.com/en/verify/30811053036848/)
+  [<img src="src/img/freecodecamp-javascript-certificate.png" width="165">](https://www.freecodecamp.org/certification/selintopcu/javascript-algorithms-and-data-structures)
+  [<img src="src/img/freecodecamp-responsiveweb-certificate.png" width="165">](https://www.freecodecamp.org/certification/selintopcu/responsive-web-design)
   
 ## Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
