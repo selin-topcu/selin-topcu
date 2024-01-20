@@ -1,9 +1,6 @@
 <h2 align="center">Hi 👋! I'm Selin, Java Full Stack Developer from Türkiye.</h2>
 
 <div align="center">
-  
-## LeetCode
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/selintopcu?theme=wtf&font=Encode%20Sans%20Semi%20Condensed&ext=activity)
 
 ###
   ![](https://raw.githubusercontent.com/selin-topcu/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
