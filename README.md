@@ -36,7 +36,7 @@
   <img width="16" />
 
 ## Badges
-  [<img src="src/img/hackerrank-badge.png" width="450">](https://www.hackerrank.com/profile/selintopcu)
+  [<img src="src/img/hackerrank-badge.png" width="300">](https://www.hackerrank.com/profile/selintopcu)
 
 
   
