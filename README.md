@@ -1,26 +1,9 @@
-<h2 align="center">Hi 👋! I'm Selin, Java Full Stack Developer from Türkiye.</h2>
+<h2 align="center">Hi 👋! I'm Selin, Software Engineer from Türkiye.</h2>
 
 <div align="center">
 
 ###
   ![](https://raw.githubusercontent.com/selin-topcu/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
-  
-## Links
-  <a href="https://www.hackerrank.com/profile/selintopcu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.leetcode.com/profile/selintopcu" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" alt="leetcode logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/14768905/selin-topcu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/?authuser=slndayioglu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://tr.linkedin.com/in/selin-topcu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>  
 
 ## Certificates
   [<img src="src/img/hackerrank-java-certificate.png" width="155">](https://www.hackerrank.com/certificates/249ebc6ec8df)
@@ -35,7 +18,11 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="javascript logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="16" />
@@ -45,8 +32,8 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="16" />
 
 ## Badges
   [<img src="src/img/hackerrank-badge.png" width="450">](https://www.hackerrank.com/profile/selintopcu)
